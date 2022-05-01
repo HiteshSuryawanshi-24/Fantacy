@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "789823944780",
+    "project_id": "indean11",
+    "storage_bucket": "indean11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789823944780:android:8f43d3675a1daf27ab1ce9",
+        "android_client_info": {
+          "package_name": "com.indian11.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789823944780-sr3ed5lfm4eejmdl6bim5i5al95l63iu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indian11.app",
+            "certificate_hash": "c6e7523cf174842e6bd7993963f7994ac5f7198d"
+          }
+        },
+        {
+          "client_id": "789823944780-9ef4kmgpuaf6p6s43lp8g324u0ph801t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonciIyvlEzOTrkYqYYHpvsykgaJzwJqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oaut````````h_client": [
+            {
+              "client_id": "789823944780-9ef4kmgpuaf6p6s43lp8g324u0ph801t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
